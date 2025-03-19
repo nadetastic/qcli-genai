@@ -2,6 +2,8 @@
 
 This repository contains a collection of markdown files that document and summarize the main points of generative AI. These documents provide a comprehensive overview of generative AI technology, its applications, challenges, and future directions.
 
+> **Note**: The contents of this repo were generated, committed, and pushed entirely by q cli (including this message) using only two prompts.
+
 ## Contents
 
 1. [**Generative AI Overview**](./generative-ai-overview.md) - A fundamental introduction to generative AI, its key characteristics, core technologies, and historical development.
